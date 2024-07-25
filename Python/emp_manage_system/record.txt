@@ -1,0 +1,2 @@
+{"empId": "E02387", "fullName": "suresh lohra", "jobTitle": "data analyst", "department": "it", "gender": "male", "age": 55, "joining_date": "01-04-2004", "annual_salary": 360000.0, "city_name": "delhi", "country_name": "india", "exit_date": null}
+{"empId": "E04105", "fullName": "ramesh kumar mishra", "jobTitle": "data scientist", "department": "Finance", "gender": "male", "age": 34, "joining_date": "1-1-2000", "annual_salary": 1000000.0, "city_name": "ranchi", "country_name": "india", "exit_date": null}
