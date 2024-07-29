@@ -17,7 +17,7 @@ In this project, I performed several tasks to predict mobile phone prices using 
 
 ## Data Collection
 
-- **Source:** Data was collected through web scraping.
+- **Source:** Data was taken from CampusX Youtube channel (Nitish sir). <a src = "https://docs.google.com/spreadsheets/d/1oBG0ZtYiWzehWa1K6pV8huMtVEJxCY4C9vPaGCt1_gU/edit?gid=1238335059#gid=1238335059" > click here for actual dataset given by campusx </a>
 
 ## Data Preprocessing
 
